@@ -1,0 +1,447 @@
+[
+    {
+        "name": "ParsaTV",
+        "slug": "parsatv",
+        "url": "https://www.parsatv.com/embed.php?name=CHANNEL_NAME",
+        "method": "GET",
+        "pattern": "file: \"(.*?)\",",
+        "expire_duration": "2H",
+        "mode": "variant",
+        "output_filter": "token",
+        "headers": {},
+        "channels": [
+            {
+                "name": "ZDF",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "ZDF"
+                    }
+                ]
+            },
+            {
+                "name": "VOX",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "VOX"
+                    }
+                ]
+            },
+            {
+                "name": "Sixx",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Sixx"
+                    }
+                ]
+            },
+            {
+                "name": "RTL",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "RTL"
+                    }
+                ]
+            },
+            {
+                "name": "RTL 2",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "RTL-Zwei"
+                    }
+                ]
+            },
+            {
+                "name": "RTL Nitro",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "RTL-Nitro"
+                    }
+                ]
+            },
+            {
+                "name": "Super RTL",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Super-RTL"
+                    }
+                ]
+            },
+            {
+                "name": "Baden TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Baden-TV"
+                    }
+                ]
+            },
+            {
+                "name": "Euronews DE",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Euronews-Deutsch"
+                    }
+                ]
+            },
+            {
+                "name": "DMAX",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "DMAX"
+                    }
+                ]
+            },
+            {
+                "name": "ProSieben",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "ProSieben"
+                    }
+                ]
+            },
+            {
+                "name": "ProSieben MAXX",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "ProSieben-MAXX"
+                    }
+                ]
+            },
+            {
+                "name": "ntv",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "ntv"
+                    }
+                ]
+            },
+            {
+                "name": "Welt",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Welt"
+                    }
+                ]
+            },
+            {
+                "name": "ORF 1",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "ORF-1"
+                    }
+                ]
+            },
+            {
+                "name": "Sat1",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Sat1"
+                    }
+                ]
+            },
+            {
+                "name": "Sat1 Gold",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Sat1-Gold"
+                    }
+                ]
+            },
+            {
+                "name": "NDR",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "NDR-Fernsehen"
+                    }
+                ]
+            },
+            {
+                "name": "Das Erste",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Das-Erste"
+                    }
+                ]
+            },
+            {
+                "name": "Alex Berlin",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Alex-Berlin"
+                    }
+                ]
+            },
+            {
+                "name": "Deutsch Musik",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Deutsches-Musik-Fernsehen"
+                    }
+                ]
+            },
+            {
+                "name": "Tirol TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Tirol-TV"
+                    }
+                ]
+            },
+            {
+                "name": "WDR",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Westdeutscher-Rundfunk"
+                    }
+                ]
+            },
+            {
+                "name": "BR",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Bayerischer-Rundfunk-TV"
+                    }
+                ]
+            },
+            {
+                "name": "HR",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Hessischer-Rundfunk"
+                    }
+                ]
+            },
+            {
+                "name": "TVO",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "TV-Oberfranken"
+                    }
+                ]
+            },
+            {
+                "name": "TeleBarn",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "TeleBarn"
+                    }
+                ]
+            },
+            {
+                "name": "Augsburg TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Augsburg-TV"
+                    }
+                ]
+            },
+            {
+                "name": "Mainfranken",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "TV-Mainfranken"
+                    }
+                ]
+            },
+            {
+                "name": "Franken TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Franken-Fernsehen"
+                    }
+                ]
+            },
+            {
+                "name": "Allgau TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Allgau-TV"
+                    }
+                ]
+            },
+            {
+                "name": "Sylt1",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Sylt1"
+                    }
+                ]
+            },
+            {
+                "name": "TVA",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "TVA"
+                    }
+                ]
+            },
+            {
+                "name": "Kabel 1",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Kabel-Eins"
+                    }
+                ]
+            },
+            {
+                "name": "Tele 5",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Tele-5"
+                    }
+                ]
+            },
+            {
+                "name": "ARD",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "ARD"
+                    }
+                ]
+            },
+            {
+                "name": "Dorf TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Dorf-TV"
+                    }
+                ]
+            },
+            {
+                "name": "Okto TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Okto-TV"
+                    }
+                ]
+            },
+            {
+                "name": "RTL LU",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "RTL-Luxembourg"
+                    }
+                ]
+            },
+            {
+                "name": "FS1",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Freies-Fernsehen-Salzburg"
+                    }
+                ]
+            },
+            {
+                "name": "Laendle TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Laendle-TV"
+                    }
+                ]
+            },
+            {
+                "name": "3sat",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "3sat"
+                    }
+                ]
+            },
+            {
+                "name": "SR",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Saarlandischer-Rundfunk"
+                    }
+                ]
+            },
+            {
+                "name": "W24",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "W24"
+                    }
+                ]
+            },
+            {
+                "name": "ARD Alpha",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "ARD-Alpha"
+                    }
+                ]
+            },
+            {
+                "name": "Omrop Fryslan",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Omrop-Fryslan"
+                    }
+                ]
+            },
+            {
+                "name": "tagesschau24",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "tagesschau24"
+                    }
+                ]
+            },
+            {
+                "name": "RT Germany",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "Russia-Today-Germany"
+                    }
+                ]
+            }
+        ]
+    }
+]
