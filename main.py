@@ -1,0 +1,72 @@
+import re
+import requests
+import sys
+import json
+import os
+from urllib.parse import urljoin
+from slugify import slugify
+from tqdm import tqdm
+
+def get_stream_url(url, pattern, method="GET", headers={}, body={}):
+    if method == "GET":
+        r = requests.get(url, headers=headers)
+    elif method == "POST":
+        r = requests.post(url, json=body, headers=headers)
+    else:
+        print(method, "is not supported or wrong.")
+        return None
+    results = re.findall(pattern, r.text)
+    if len(results) > 0:
+        return results[0]
+    else:
+        print("No result found in the response. \nCheck your regex pattern {} for {}".format(method, url))
+        return None
+
+def playlist_text(url):
+    text = ""
+    r = requests.get(url)
+    if r.status_code == 200:
+        for line in r.iter_lines():
+            line = line.decode()
+            if line[0] != "#":
+                text = text + urljoin(url, str(line))
+            else:
+                text = str(text) + str(line)
+            text += "\n"
+
+        return text
+    return ""
+
+
+
+def main():
+    config_file = open(sys.argv[1], "r", encoding="utf-8")
+    config = json.load(config_file)
+    for site in config:
+        site_path = os.path.join(os.getcwd(), site["slug"])
+        os.makedirs(site_path, exist_ok=True)
+        for channel in tqdm(site["channels"]):
+            channel_url = site["url"]
+            for variable in channel["variables"]:
+                channel_url = channel_url.replace(variable["name"], variable["value"])
+            stream_url = get_stream_url(channel_url, site["pattern"])
+            if not stream_url:
+                continue
+            if site["output_filter"] not in stream_url:
+                continue
+            if site["mode"] == "variant":
+                text = playlist_text(stream_url)
+            elif site["mode"] == "master":
+                text = "#EXTM3U\n##EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH={}\n{}".format(site["bandwidth"], stream_url)
+            else:
+                print("Wrong or missing playlist mode argument")
+                text = ""
+            if text:
+                channel_file = open(os.path.join(site_path, slugify(channel["name"]) + ".m3u8"), "w+")
+                channel_file.write(text)
+                
+                
+
+if __name__=="__main__": 
+    main() 
+    #print(playlist_text("https://s6.hopslan.com/voxx1/index.m3u8?token=3ad323fbe151bedfae622c0e0a48c4f7aac1b4f3-30bb60e6cd347c099d423d40b9bbb993-1708979257-1708968457"))
