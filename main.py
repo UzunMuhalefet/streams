@@ -62,11 +62,10 @@ def main():
                 print("Wrong or missing playlist mode argument")
                 text = ""
             if text:
-                channel_file = open(os.path.join(site_path, slugify(channel["name"]) + ".m3u8"), "w+")
+                channel_file = open(os.path.join(site_path, slugify(channel["name"].lower()) + ".m3u8"), "w+")
                 channel_file.write(text)
                 
                 
 
 if __name__=="__main__": 
     main() 
-    #print(playlist_text("https://s6.hopslan.com/voxx1/index.m3u8?token=3ad323fbe151bedfae622c0e0a48c4f7aac1b4f3-30bb60e6cd347c099d423d40b9bbb993-1708979257-1708968457"))
