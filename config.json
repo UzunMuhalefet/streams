@@ -74,24 +74,6 @@
                 ]
             },
             {
-                "name": "Baden TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Baden-TV"
-                    }
-                ]
-            },
-            {
-                "name": "Euronews DE",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Euronews-Deutsch"
-                    }
-                ]
-            },
-            {
                 "name": "DMAX",
                 "variables": [
                     {
@@ -137,15 +119,6 @@
                 ]
             },
             {
-                "name": "ORF 1",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "ORF-1"
-                    }
-                ]
-            },
-            {
                 "name": "Sat1",
                 "variables": [
                     {
@@ -164,146 +137,11 @@
                 ]
             },
             {
-                "name": "NDR",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "NDR-Fernsehen"
-                    }
-                ]
-            },
-            {
-                "name": "Das Erste",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Das-Erste"
-                    }
-                ]
-            },
-            {
-                "name": "Alex Berlin",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Alex-Berlin"
-                    }
-                ]
-            },
-            {
-                "name": "Deutsch Musik",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Deutsches-Musik-Fernsehen"
-                    }
-                ]
-            },
-            {
-                "name": "Tirol TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Tirol-TV"
-                    }
-                ]
-            },
-            {
                 "name": "WDR",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
                         "value": "Westdeutscher-Rundfunk"
-                    }
-                ]
-            },
-            {
-                "name": "BR",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Bayerischer-Rundfunk-TV"
-                    }
-                ]
-            },
-            {
-                "name": "HR",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Hessischer-Rundfunk"
-                    }
-                ]
-            },
-            {
-                "name": "TVO",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "TV-Oberfranken"
-                    }
-                ]
-            },
-            {
-                "name": "TeleBarn",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "TeleBarn"
-                    }
-                ]
-            },
-            {
-                "name": "Augsburg TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Augsburg-TV"
-                    }
-                ]
-            },
-            {
-                "name": "Mainfranken",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "TV-Mainfranken"
-                    }
-                ]
-            },
-            {
-                "name": "Franken TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Franken-Fernsehen"
-                    }
-                ]
-            },
-            {
-                "name": "Allgau TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Allgau-TV"
-                    }
-                ]
-            },
-            {
-                "name": "Sylt1",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Sylt1"
-                    }
-                ]
-            },
-            {
-                "name": "TVA",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "TVA"
                     }
                 ]
             },
@@ -335,110 +173,11 @@
                 ]
             },
             {
-                "name": "Dorf TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Dorf-TV"
-                    }
-                ]
-            },
-            {
-                "name": "Okto TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Okto-TV"
-                    }
-                ]
-            },
-            {
-                "name": "RTL LU",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "RTL-Luxembourg"
-                    }
-                ]
-            },
-            {
-                "name": "FS1",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Freies-Fernsehen-Salzburg"
-                    }
-                ]
-            },
-            {
-                "name": "Laendle TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Laendle-TV"
-                    }
-                ]
-            },
-            {
                 "name": "3sat",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
                         "value": "3sat"
-                    }
-                ]
-            },
-            {
-                "name": "SR",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Saarlandischer-Rundfunk"
-                    }
-                ]
-            },
-            {
-                "name": "W24",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "W24"
-                    }
-                ]
-            },
-            {
-                "name": "ARD Alpha",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "ARD-Alpha"
-                    }
-                ]
-            },
-            {
-                "name": "Omrop Fryslan",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Omrop-Fryslan"
-                    }
-                ]
-            },
-            {
-                "name": "tagesschau24",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "tagesschau24"
-                    }
-                ]
-            },
-            {
-                "name": "RT Germany",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Russia-Today-Germany"
                     }
                 ]
             }
