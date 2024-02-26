@@ -1,0 +1,9 @@
+awesome-slugify==1.6.5
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+regex==2023.12.25
+requests==2.31.0
+tqdm==4.66.2
+Unidecode==0.4.21
+urllib3==2.2.1
