@@ -28,6 +28,8 @@ def playlist_text(url):
     if r.status_code == 200:
         for line in r.iter_lines():
             line = line.decode()
+            if not line:
+                continue
             if line[0] != "#":
                 text = text + urljoin(url, str(line))
             else:
@@ -46,13 +48,18 @@ def main():
         site_path = os.path.join(os.getcwd(), site["slug"])
         os.makedirs(site_path, exist_ok=True)
         for channel in tqdm(site["channels"]):
+            channel_file_path = os.path.join(site_path, slugify(channel["name"].lower()) + ".m3u8")
             channel_url = site["url"]
             for variable in channel["variables"]:
                 channel_url = channel_url.replace(variable["name"], variable["value"])
             stream_url = get_stream_url(channel_url, site["pattern"])
             if not stream_url:
+                if os.path.isfile(channel_file_path):
+                    os.remove(channel_file_path)
                 continue
             if site["output_filter"] not in stream_url:
+                if os.path.isfile(channel_file_path):
+                    os.remove(channel_file_path)
                 continue
             if site["mode"] == "variant":
                 text = playlist_text(stream_url)
@@ -62,9 +69,11 @@ def main():
                 print("Wrong or missing playlist mode argument")
                 text = ""
             if text:
-                channel_file = open(os.path.join(site_path, slugify(channel["name"].lower()) + ".m3u8"), "w+")
+                channel_file = open(channel_file_path, "w+")
                 channel_file.write(text)
-                
+            else:
+                if os.path.isfile(channel_file_path):
+                    os.remove(channel_file_path)
                 
 
 if __name__=="__main__": 
