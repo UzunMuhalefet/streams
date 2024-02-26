@@ -1,5 +1,207 @@
 [
     {
+        "name": "MyVideo",
+        "slug": "myvideo-az",
+        "url": "http://149.255.152.218/channels.aspx?channel=CHANNEL_NAME.m3u8",
+        "method": "GET",
+        "pattern": "<source.*?src=\"(.*?)\"",
+        "expire_duration": "1D",
+        "mode": "variant",
+        "output_filter": "token",
+        "headers": {},
+        "channels": [
+            {
+                "name": "AZ TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "aztv"
+                    }
+                ]
+            },
+            {
+                "name": "Medeniyet TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "medeniyet"
+                    }
+                ]
+            },
+            {
+                "name": "Ictimai TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "ictimai"
+                    }
+                ]
+            },
+            {
+                "name": "ATV Azad",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "atvaz"
+                    }
+                ]
+            },
+            {
+                "name": "Xezer TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "xazer"
+                    }
+                ]
+            },
+            {
+                "name": "Sehiyye TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "sthv"
+                    }
+                ]
+            },
+            {
+                "name": "Space TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "space"
+                    }
+                ]
+            },
+            {
+                "name": "CBC",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "cbcaz"
+                    }
+                ]
+            },
+            {
+                "name": "Dunya TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "dunya"
+                    }
+                ]
+            },
+            {
+                "name": "ARB",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "arbhd"
+                    }
+                ]
+            },
+            {
+                "name": "ARB 24",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "arb24"
+                    }
+                ]
+            },
+            {
+                "name": "ARB Gunes",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "arbgunes"
+                    }
+                ]
+            },
+            {
+                "name": "Kanal S",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "kanals"
+                    }
+                ]
+            },
+            {
+                "name": "Real TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "real"
+                    }
+                ]
+            },
+            {
+                "name": "MCJ TV Shop",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "mcj"
+                    }
+                ]
+            },
+            {
+                "name": "TMB Azerbaycan",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "tmbaz"
+                    }
+                ]
+            },
+            {
+                "name": "Baku TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "bakutv"
+                    }
+                ]
+            },
+            {
+                "name": "Terra",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "terra"
+                    }
+                ]
+            },
+            {
+                "name": "VIP",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "vip"
+                    }
+                ]
+            },
+            {
+                "name": "MTV Azerbaycan",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "mtvazerbaycan"
+                    }
+                ]
+            },
+            {
+                "name": "TMB TV",
+                "variables": [
+                    {
+                        "name": "CHANNEL_NAME",
+                        "value": "tmbtv"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "ParsaTV",
         "slug": "parsatv",
         "url": "https://www.parsatv.com/embed.php?name=CHANNEL_NAME",
