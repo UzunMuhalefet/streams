@@ -204,7 +204,7 @@
     {
         "name": "ParsaTV",
         "slug": "parsatv",
-        "url": "https://www.parsatv.com/embed.php?name=CHANNEL_NAME",
+        "url": "https://ecanlitvizle.video//embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "file: \"(.*?)\",",
         "expire_duration": "2H",
@@ -215,11 +215,11 @@
         },
         "channels": [
             {
-                "name": "ZDF",
+                "name": "KANALD",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
-                        "value": "ZDF"
+                        "value": "kanald"
                     }
                 ]
             },
