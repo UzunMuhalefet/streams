@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2192000
-http://149.255.152.199/ictimai.m3u8?bandwidth=2192&e=1725308146&playlistlength=5&shift=0&sid=coder_52&token=0318eedc175fc2cd924a5941eb84c9bd&user=37076
+http://149.255.152.199/ictimai.m3u8?bandwidth=2192&e=1725315277&playlistlength=5&shift=0&sid=coder_52&token=cd34a881da51c5f4276d905f2465c27c&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=892000
-http://149.255.152.199/ictimai.m3u8?bandwidth=892&e=1725308146&playlistlength=5&shift=0&sid=coder_52&token=0318eedc175fc2cd924a5941eb84c9bd&user=37076
+http://149.255.152.199/ictimai.m3u8?bandwidth=892&e=1725315277&playlistlength=5&shift=0&sid=coder_52&token=cd34a881da51c5f4276d905f2465c27c&user=37076
