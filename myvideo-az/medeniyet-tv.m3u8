@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/medeniyet.m3u8?bandwidth=2096&e=1727021856&playlistlength=5&shift=0&sid=coder_52&token=3da16d40e519c2af64cf5fca483322e6&user=37076
+http://149.255.152.199/medeniyet.m3u8?bandwidth=2096&e=1727029086&playlistlength=5&shift=0&sid=coder_52&token=94ace0928a1890e0f8c7464dc98a5673&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/medeniyet.m3u8?bandwidth=796&e=1727021856&playlistlength=5&shift=0&sid=coder_52&token=3da16d40e519c2af64cf5fca483322e6&user=37076
+http://149.255.152.199/medeniyet.m3u8?bandwidth=796&e=1727029086&playlistlength=5&shift=0&sid=coder_52&token=94ace0928a1890e0f8c7464dc98a5673&user=37076
