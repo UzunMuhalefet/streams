@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6056000
-http://149.255.152.199/bakutv.m3u8?bandwidth=6056&e=1729282628&playlistlength=5&shift=0&sid=coder_57&token=ee27d3b27ae14cf0a4e174c25c0b1d21&user=37076
+http://149.255.152.199/bakutv.m3u8?bandwidth=6056&e=1729289732&playlistlength=5&shift=0&sid=coder_57&token=5620b55d944ad839a6319fe2b8d2ff85&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=2056000
-http://149.255.152.199/bakutv.m3u8?bandwidth=2056&e=1729282628&playlistlength=5&shift=0&sid=coder_57&token=ee27d3b27ae14cf0a4e174c25c0b1d21&user=37076
+http://149.255.152.199/bakutv.m3u8?bandwidth=2056&e=1729289732&playlistlength=5&shift=0&sid=coder_57&token=5620b55d944ad839a6319fe2b8d2ff85&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=756000
-http://149.255.152.199/bakutv.m3u8?bandwidth=756&e=1729282628&playlistlength=5&shift=0&sid=coder_57&token=ee27d3b27ae14cf0a4e174c25c0b1d21&user=37076
+http://149.255.152.199/bakutv.m3u8?bandwidth=756&e=1729289732&playlistlength=5&shift=0&sid=coder_57&token=5620b55d944ad839a6319fe2b8d2ff85&user=37076
