@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=796000
+http://149.255.152.199/aztv.m3u8?bandwidth=796&e=1730434771&playlistlength=5&shift=0&sid=coder_53&token=8257ba9c76e6afece55f442a06b57556&user=37076
