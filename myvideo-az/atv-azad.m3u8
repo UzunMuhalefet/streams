@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/atvaz.m3u8?bandwidth=2096&e=1735725954&playlistlength=5&shift=0&sid=coder_53&token=32154251c8e66fee2a9fa10b5fa83150&user=37076
+http://149.255.152.199/atvaz.m3u8?bandwidth=2096&e=1735740235&playlistlength=5&shift=0&sid=coder_53&token=eac09260e72ffce54a2f18042c301bc3&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/atvaz.m3u8?bandwidth=796&e=1735725954&playlistlength=5&shift=0&sid=coder_53&token=32154251c8e66fee2a9fa10b5fa83150&user=37076
+http://149.255.152.199/atvaz.m3u8?bandwidth=796&e=1735740235&playlistlength=5&shift=0&sid=coder_53&token=eac09260e72ffce54a2f18042c301bc3&user=37076
