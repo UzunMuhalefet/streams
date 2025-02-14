@@ -1,35 +1,38 @@
-name: run main.py
+name: Run main.py
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs in every 3 hours
+    - cron: '0 */2 * * *'  # Hər 2 saatda bir işləsin
   pull_request:
-      branches:
-        - main
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps: 
-      - uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-            python-version: '3.x' 
+          python-version: '3.x'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          
-          pip3 install -r requirements.txt
-      - name: execute py script 
+          pip install -r requirements.txt
+
+      - name: Execute Python script
         run: python main.py config.json
-      - name: commit and push files
+
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "updated streams"
-          git push
-
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated update: Updated streams"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         
         
