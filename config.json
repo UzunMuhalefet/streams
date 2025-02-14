@@ -206,7 +206,7 @@
         "slug": "parsatv",
         "url": "https://www.parsatv.com/embed.php?name=CHANNEL_NAME",
         "method": "GET",
-        "pattern": "file: \"(.*?)\",",
+        "pattern": "file: \"(.*?)\"",
         "expire_duration": "2H",
         "mode": "variant",
         "output_filter": "token",
