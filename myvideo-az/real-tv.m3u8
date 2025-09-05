@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/real.m3u8?bandwidth=2096&e=1757127373&playlistlength=5&shift=0&sid=coder_79&token=37418b6a798c3cecd313606c5c453470&user=37076
+http://149.255.152.199/real.m3u8?bandwidth=2096&e=1757132280&playlistlength=5&shift=0&sid=coder_79&token=d21855da194152709b3582b68b6bbca9&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/real.m3u8?bandwidth=796&e=1757127373&playlistlength=5&shift=0&sid=coder_79&token=37418b6a798c3cecd313606c5c453470&user=37076
+http://149.255.152.199/real.m3u8?bandwidth=796&e=1757132280&playlistlength=5&shift=0&sid=coder_79&token=d21855da194152709b3582b68b6bbca9&user=37076
