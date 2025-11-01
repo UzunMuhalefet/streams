@@ -328,7 +328,7 @@ if __name__ == "__main__":
             file_path = os.path.join("mobiltv-net", file_name)
             result = save_file(file_path, stream_urls)
             if result == "success":
-                github_url = f"{BASE_URL}/mobiltv-net/{file_name}.m3u8"
+                github_url = f"{BASE_URL}/mobiltv-net/{file_name}"
                 playlist_file.write(f'#EXTINF:-1 tvg-id="" tvg-name="{kanal["name"]}" tvg-logo="{kanal["img"]}",{kanal["name"]}\n')
                 playlist_file.write(f"#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\n")
                 playlist_file.write(f"{github_url}\n")
