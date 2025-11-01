@@ -75,10 +75,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/u
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/ictimai-tv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ht-spor-1759224565.png",HT Spor
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/ht-spor.m3u8
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-semerkand-tv.png",Semerkand Tv
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/semerkand-tv.m3u8
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-diyanet-tv.png",Diyanet Tv
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/diyanet-tv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-32.png",Kanal 32
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/kanal-32.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ekol-sports.png",Ekol Sports
@@ -109,8 +105,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/b
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/tgrt-haber.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tvnet.png",TVNET
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/tvnet.m3u8
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-akit-tv.png",Akit Tv
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/akit-tv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-a-news.png",A News
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/a-news.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ekoturk-tv-1760028220.png",Ekotürk Tv
@@ -143,5 +137,3 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/f
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/sat7-turk.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gonca-tv.png",Gonca Tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/gonca-tv.m3u8
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-on4-tv-1761425893.png",On4 Tv
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/on4-tv.m3u8
