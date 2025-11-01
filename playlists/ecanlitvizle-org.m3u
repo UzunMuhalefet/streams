@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="https://tv.ecanlitvizle.org/logo/star-tv-izle-1.png",STAR TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 HD" tvg-logo="https://tv.ecanlitvizle.org/logo/kanal-7-izle.png",KANAL 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kanal7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV HD" tvg-logo="https://tv.ecanlitvizle.org/logo/show-tv-izle.png",SHOW TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/showtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HD" tvg-logo="https://tv.ecanlitvizle.org/logo/beyaz-tv-izle.png",BEYAZ TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/beyaztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="https://tv.ecanlitvizle.org/logo/trt-haber-canli-izle-1.png",TRT HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/trthaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="https://tv.ecanlitvizle.org/logo/halk-tv-izle.png",HALK TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/halktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/szc-tv-sozcu-televizyonu-canli-izle.png",SÖZCÜ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/sozcutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABERTÜRK" tvg-logo="https://tv.ecanlitvizle.org/logo/haberturk-izle.png",HABERTÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/haberturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="https://tv.ecanlitvizle.org/logo/tgrt-haber-tv-izle.png",TGRT HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV" tvg-logo="https://tv.ecanlitvizle.org/logo/ulke-tv-izle.png",ÜLKE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/ulketv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="360 TV HD" tvg-logo="https://tv.ecanlitvizle.org/logo/360-tv-izle.png",360 TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/360tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="https://tv.ecanlitvizle.org/logo/a-haber-canli.png",A HABER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/ahaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv100" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-100.png",tv100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL" tvg-logo="https://tv.ecanlitvizle.org/logo/haber-global-canli.png",HABER GLOBAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/haberglobal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 TV HD" tvg-logo="https://tv.ecanlitvizle.org/logo/kanal-24-izle.png",24 TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/24tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOL TV" tvg-logo="https://tv.ecanlitvizle.org/logo/ekol-tv-canli.png",EKOL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/ekoltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-logo="https://tv.ecanlitvizle.org/logo/tele-1-izle.png",TELE1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tele1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="https://tv.ecanlitvizle.org/logo/krt-tv-canli.png",KRT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/krttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="https://tv.ecanlitvizle.org/logo/a-para.png",A PARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/apara.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="https://tv.ecanlitvizle.org/logo/a-spor-canli.png",A SPOR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/aspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="https://tv.ecanlitvizle.org/logo/trt-belgesel-tv-izle.png",TRT BELGESEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/trtbelgesel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVNET" tvg-logo="https://tv.ecanlitvizle.org/logo/tvnet-izle.png",TVNET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tvnet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="https://tv.ecanlitvizle.org/logo/bein-sports-haber-canli.png",BEİN SPORTS HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/beinsporthaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROSIEBEN 7 MAXX" tvg-logo="https://tv.ecanlitvizle.org/logo/prosieben-7-maxx.png",PROSIEBEN 7 MAXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/pro7max.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAT.1 GOLD" tvg-logo="https://tv.ecanlitvizle.org/logo/sat-1-gold.png",SAT.1 GOLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/sat1gold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KABEL EİNS DOKU" tvg-logo="https://tv.ecanlitvizle.org/logo/kabel-eins-doku.png",KABEL EİNS DOKU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kabel1doku.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX GERMANY" tvg-logo="https://tv.ecanlitvizle.org/logo/dmax-live-stream-tv.png",DMAX GERMANY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/dmaxde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="https://tv.ecanlitvizle.org/logo/rtl-2-live-stream-tv.png",RTL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/rtlzwei.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZAD TV AZ" tvg-logo="https://tv.ecanlitvizle.org/logo/atv-azad-tv-izle.png",AZAD TV AZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/atvaz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB TV AZ" tvg-logo="https://tv.ecanlitvizle.org/logo/arb-az-canli.png",ARB TV AZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/arbtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XEZER TV" tvg-logo="https://tv.ecanlitvizle.org/logo/xezer-tv-izle.png",XEZER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/xezertv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/az-tv-izle-azerbaycan-tv-izle.png",AZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/aztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="https://tv.ecanlitvizle.org/logo/arb-24-az.png",ARB 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/arb24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE TV AZ" tvg-logo="https://tv.ecanlitvizle.org/logo/space-tv-az-izle.png",SPACE TV AZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/spacetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDENİYET AZ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/medeniyet-az-tv.png",MEDENİYET AZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/medeniyettv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REAL AZ" tvg-logo="https://tv.ecanlitvizle.org/logo/real-tv-az.png",REAL AZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/realtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC AZ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/cbc-az-tv-cenub-tv.png",CBC AZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/cbcaztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB GÜNƏŞ" tvg-logo="https://tv.ecanlitvizle.org/logo/arb-gunes.png",ARB GÜNƏŞ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/arbgunes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REHBER TV" tvg-logo="https://tv.ecanlitvizle.org/logo/rehber-tv.png",REHBER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/rehbertv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOST TV" tvg-logo="https://tv.ecanlitvizle.org/logo/dost-tv-izle.png",DOST TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/dosttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT TÜRK" tvg-logo="https://tv.ecanlitvizle.org/logo/trt-turk-izle.png",TRT TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/trtturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV" tvg-logo="https://tv.ecanlitvizle.org/logo/ekoturk-tv-canli.png",EKOTÜRK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/ekoturktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GÜNAZ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/gunaz-tv-az.png",GÜNAZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/gunaztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-5-izle.png",TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LALEGÜL TV" tvg-logo="https://tv.ecanlitvizle.org/logo/lalegul-tv-canli-izle.png",LALEGÜL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/lalegultv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSTAR" tvg-logo="https://tv.ecanlitvizle.org/logo/star-tv-avrupa-eurostar-izle.png",EUROSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/eurostar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K" tvg-logo="https://tv.ecanlitvizle.org/logo/trt-4k-izle.png",TRT 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/trthaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NUMBER 1 TV TÜRK" tvg-logo="https://tv.ecanlitvizle.org/logo/number-1-one-tv-cani-izle.png",NUMBER 1 TV TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/nr1turktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VUSLAT TV" tvg-logo="https://tv.ecanlitvizle.org/logo/vuslat-tv-izle.png",VUSLAT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/vuslattv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 33" tvg-logo="https://tv.ecanlitvizle.org/logo/kanal-33.png",KANAL 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kanal33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİNE TV" tvg-logo="https://tv.ecanlitvizle.org/logo/bursa-line-tv-izle.png",LİNE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/linetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 41" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-41-izle.png",TV 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 52" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-52-izle.png",TV 52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEMPO TV" tvg-logo="https://tv.ecanlitvizle.org/logo/tempo-tv-izle.png",TEMPO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tempotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL URFA" tvg-logo="https://tv.ecanlitvizle.org/logo/kanal-urfa-tv-izle.png",KANAL URFA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kanalurfa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FM TV" tvg-logo="https://tv.ecanlitvizle.org/logo/fm-tv-izle.png",FM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/fmtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS GENÇ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/kibris-genc-tv-canli-izle.png",KIBRIS GENÇ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kibrisgenctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="https://tv.ecanlitvizle.org/logo/a-news-live.png",A NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/anews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvDEN" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-den-canli.png",tvDEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tvden.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://tv.ecanlitvizle.org/logo/nhk-world-tv.png",NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/nhkworldjpn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 264" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-264-canli.png",TV 264
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo="https://tv.ecanlitvizle.org/logo/tgrt-eu-canli.png",TGRT EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tgrteu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAT 7 TÜRK TV" tvg-logo="https://tv.ecanlitvizle.org/logo/sat-7-turk-tv-canli.png",SAT 7 TÜRK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/sat7turk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THTÜRK HABER" tvg-logo="https://tv.ecanlitvizle.org/logo/turk-haber-tv-canli.jpg",THTÜRK HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/thturkhaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRTV" tvg-logo="https://tv.ecanlitvizle.org/logo/brtv-canli.png",BRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/brtvkarabuk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARS TV" tvg-logo="https://tv.ecanlitvizle.org/logo/pars-tv.png",PARS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/parstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alikhbaria Tv" tvg-logo="https://tv.ecanlitvizle.org/logo/alikhbaria-tv.png",Alikhbaria Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/alikhbaria.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekol Sports" tvg-logo="https://tv.ecanlitvizle.org/logo/ekol-sports.png",Ekol Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/ekolsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRTV" tvg-logo="https://tv.ecanlitvizle.org/logo/brtv-canli.png",BRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/brtvkarabuk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARS TV" tvg-logo="https://tv.ecanlitvizle.org/logo/pars-tv.png",PARS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/parstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alikhbaria Tv" tvg-logo="https://tv.ecanlitvizle.org/logo/alikhbaria-tv.png",Alikhbaria Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/alikhbaria.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekol Sports" tvg-logo="https://tv.ecanlitvizle.org/logo/ekol-sports.png",Ekol Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/ekolsports.m3u8
