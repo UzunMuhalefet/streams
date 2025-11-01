@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import os
+import shutil
 
 # Get cookies from environment variables
 LS_ACCOUNT_KEY = os.getenv("LS_ACCOUNT_KEY", "")
@@ -72,6 +73,9 @@ def create_file(path, streams):
         if len(streams) == 1:
             url = streams[0]
             r = requests.get(url)
+            if r.status_code != 200:
+                print(f"Failed to fetch stream URL: {url}")
+                return ""
             if "EXT-X-STREAM-INF" in r.text:
                 lines = r.text.splitlines()
                 f = open(path, "w", encoding="utf-8")
@@ -89,7 +93,7 @@ def create_file(path, streams):
                 f.write("#EXT-X-VERSION:3\n")
                 f.write(f"#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000\n")
                 f.write(f"{url}\n")
-        else:
+        elif len(streams) > 1:
             f = open(path, "w", encoding="utf-8")
             f.write("#EXTM3U\n")
             for url in streams:
@@ -104,6 +108,7 @@ def create_file(path, streams):
 
 if __name__ == "__main__":
     channels = get_all_channels()
+    shutil.rmtree("tv-vin", ignore_errors=True)
     os.makedirs("tv-vin", exist_ok=True)
     os.makedirs("playlists", exist_ok=True)
     playlist_file_path = os.path.join("playlists", "tv-vin.m3u")
