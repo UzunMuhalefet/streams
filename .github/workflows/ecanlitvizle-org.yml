@@ -1,0 +1,40 @@
+name: Update ecanlitvizle-org
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Run every 6 hours
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+        
+    - name: Run scraper
+      env:
+        GITHUB_USER: ${{ github.repository_owner }}
+        GITHUB_REPO: ${{ github.event.repository.name }}
+      run: python ecanlitvizle-org.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add ecanlitvizle-org/ playlists/
+        git diff --quiet && git diff --staged --quiet || {
+          git commit -m "Update streams"
+          git pull --rebase origin main
+          git push
+        }
