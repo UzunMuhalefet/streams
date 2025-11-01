@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn506.freebroadcast.vip/trthaber720.m3u8?tkn=NjUTdBjoC7qZYMBO-V8N1Q&tms=1761972916&hst=tv.vin&ip=172.214.44.49
+https://cdn506.freebroadcast.vip/trthaber720.m3u8?tkn=ChBOZKgBKPhS7nTC9D6MZQ&tms=1761981404&hst=tv.vin&ip=172.182.211.18
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn506.freebroadcast.vip/trthaber.m3u8?tkn=NjUTdBjoC7qZYMBO-V8N1Q&tms=1761972916&hst=tv.vin&ip=172.214.44.49
+https://cdn506.freebroadcast.vip/trthaber.m3u8?tkn=ChBOZKgBKPhS7nTC9D6MZQ&tms=1761981404&hst=tv.vin&ip=172.182.211.18
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn506.freebroadcast.vip/trthaber360.m3u8?tkn=NjUTdBjoC7qZYMBO-V8N1Q&tms=1761972916&hst=tv.vin&ip=172.214.44.49
+https://cdn506.freebroadcast.vip/trthaber360.m3u8?tkn=ChBOZKgBKPhS7nTC9D6MZQ&tms=1761981404&hst=tv.vin&ip=172.182.211.18

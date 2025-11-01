@@ -105,6 +105,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/b
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/tgrt-haber.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tvnet.png",TVNET
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/tvnet.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-akit-tv.png",Akit Tv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/akit-tv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-a-news.png",A News
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/a-news.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ekoturk-tv-1760028220.png",Ekotürk Tv
