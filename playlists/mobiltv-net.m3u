@@ -1,334 +1,340 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="",Haber Global
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Haber_Global.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/haberglobal-master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sözcü Tv" tvg-logo="",Sözcü Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/sozcutv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Halk Tv" tvg-logo="",Halk Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Halk_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/halktv-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Habertürk" tvg-logo="",Habertürk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Habertürk.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/haberturk-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Tv" tvg-logo="",Star Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Star_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/startv-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="",Kanal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_7.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal7-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Show Tv" tvg-logo="",Show Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Show_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/showtv-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyaz Tv" tvg-logo="",Beyaz Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Beyaz_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/beyaztv-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/NTV.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ntv-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ülke Tv" tvg-logo="",Ülke Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Ülke_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ulketv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Haber" tvg-logo="",A Haber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/A_Haber.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ahaber-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ulusal Kanal" tvg-logo="",Ulusal Kanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Ulusal_Kanal.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ulusal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Ht" tvg-logo="",Bloomberg Ht
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/bloomberght.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Spor" tvg-logo="",A Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/A_Spor.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/aspor-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="",TRT Haber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TRT_Haber.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trthaber-master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 Tv" tvg-logo="",24 Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/24_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/24tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Haber" tvg-logo="",TGRT Haber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TGRT_Haber.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tgrthaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bengütürk Tv" tvg-logo="",Bengütürk Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Bengütürk_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/benguturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 Tv" tvg-logo="",360 Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/360_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/360tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="",TRT Çocuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TRT_Çocuk.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trtcocuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="",Minika Çocuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Minika_Çocuk.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/minikacocuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNet" tvg-logo="",TVNet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TVNet.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tvnet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Az Tv" tvg-logo="",Az Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Az_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/aztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel" tvg-logo="",TRT Belgesel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TRT_Belgesel.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trtbelgesel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türk" tvg-logo="",TRT Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TRT_Türk.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trtturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal B" tvg-logo="",Kanal B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_B.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanalb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Haber" tvg-logo="",Bein Sports Haber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Bein_Sports_Haber.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/beinsporthaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Para" tvg-logo="",A Para
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/A_Para.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/apara.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Disney_Channel.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trtcocuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Spor Yıldız" tvg-logo="",TRT Spor Yıldız
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TRT_Spor_Yıldız.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trtspor2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal Fırat" tvg-logo="",Kanal Fırat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_Fırat.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanalfirat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Show Türk" tvg-logo="",Show Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Show_Türk.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/showturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro Star" tvg-logo="",Euro Star
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Euro_Star.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/eurostar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akıllı Tv" tvg-logo="",Akıllı Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Akıllı_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/akillitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekotürk" tvg-logo="",Ekotürk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Ekotürk.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ekoturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="",Euro D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Euro_D.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/eurod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xezer Tv" tvg-logo="",Xezer Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Xezer_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/xezertv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space Tv" tvg-logo="",Space Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Space_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/spacetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Medeniyet TV" tvg-logo="",Medeniyet TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Medeniyet_TV.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/medeniyettv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atv Az" tvg-logo="",Atv Az
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Atv_Az.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/atvaz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Tv" tvg-logo="",Real Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Real_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/realtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Muz Tv" tvg-logo="",Muz Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Muz_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/muztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dünya Tv" tvg-logo="",Dünya Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Dünya_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/dunyatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Meltem Tv" tvg-logo="",Meltem Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Meltem_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/meltemtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aksu Tv" tvg-logo="",Aksu Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Aksu_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/aksutv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kon Tv" tvg-logo="",Kon Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kon_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kontv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv 52" tvg-logo="",Tv 52
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Tv_52.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tempo Tv" tvg-logo="",Tempo Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Tempo_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tempotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rumeli Tv" tvg-logo="",Rumeli Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Rumeli_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/rumelitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TV1.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mavi Karadeniz Tv" tvg-logo="",Mavi Karadeniz Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Mavi_Karadeniz_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/mavikaradeniz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kadırga Tv" tvg-logo="",Kadırga Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kadırga_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kadirgatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akit Tv" tvg-logo="",Akit Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Akit_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/akittv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Köy Tv" tvg-logo="",Köy Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Köy_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/koytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Kayseri" tvg-logo="",Tv Kayseri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Tv_Kayseri.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tvkayseri.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 42" tvg-logo="",Kanal 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_42.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Edessa Tv" tvg-logo="",Edessa Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Edessa_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/edessatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A News" tvg-logo="",A News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/A_News.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/anews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çiftçi Tv" tvg-logo="",Çiftçi Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Çiftçi_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ciftcitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Agro Tv" tvg-logo="",Agro Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Agro_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/agrotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal Urfa" tvg-logo="",Kanal Urfa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_Urfa.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanalurfa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Güneydoğu Tv" tvg-logo="",Güneydoğu Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Güneydoğu_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/guneydogutv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Line Tv" tvg-logo="",Line Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Line_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/linetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rehber Tv" tvg-logo="",Rehber Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Rehber_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/rehbertv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Altaş Tv" tvg-logo="",Altaş Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Altaş_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/altastv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çay Tv" tvg-logo="",Çay Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Çay_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/caytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Es Tv" tvg-logo="",Es Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Es_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/estv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FM Tv" tvg-logo="",FM Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/FM_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/fmtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yıldız Tv" tvg-logo="",Yıldız Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Yıldız_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/yildiztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kardelen Tv" tvg-logo="",Kardelen Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kardelen_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kardelentv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kabe Tv" tvg-logo="",Kabe Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kabe_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kabetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sunnah Tv" tvg-logo="",Sunnah Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Sunnah_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/sunnahtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV100" tvg-logo="",TV100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TV100.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teve2" tvg-logo="",Teve2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Teve2.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/teve2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele1" tvg-logo="",Tele1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Tele1.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tele1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="",TGRT Belgesel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TGRT_Belgesel.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1 TV Georgia" tvg-logo="",1 TV Georgia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/1_TV_Georgia.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/1tvgeorgia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dost Tv" tvg-logo="",Dost Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Dost_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/dosttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FB Tv" tvg-logo="",FB Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/FB_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/fbtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT Tv" tvg-logo="",KRT Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/KRT_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/krttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 32" tvg-logo="",Kanal 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_32.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tek Rumeli Tv" tvg-logo="",Tek Rumeli Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Tek_Rumeli_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tekrumelitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal T Kıbrıs" tvg-logo="",Kanal T Kıbrıs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_T_Kıbrıs.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanaltkibris.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Müzik" tvg-logo="",TRT Müzik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TRT_Müzik.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trtmuzik.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="",TRT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TRT_2.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ada Tv" tvg-logo="",Ada Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Ada_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/adatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRT 1" tvg-logo="",BRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/BRT_1.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/brt1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRT 2" tvg-logo="",BRT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/BRT_2.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/brt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRT 3" tvg-logo="",BRT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/BRT_3.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/brt3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRTV" tvg-logo="",BRTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/BRTV.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/brtvkarabuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Er Tv" tvg-logo="",Er Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Er_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ertv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7 Avrupa" tvg-logo="",Kanal 7 Avrupa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_7_Avrupa.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal7avrupa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 15" tvg-logo="",Kanal 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_15.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 23" tvg-logo="",Kanal 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_23.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NR1 Türk Tv" tvg-logo="",NR1 Türk Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/NR1_Türk_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/nr1turktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 26" tvg-logo="",Kanal 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_26.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 33" tvg-logo="",Kanal 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_33.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal33.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal Avrupa" tvg-logo="",Kanal Avrupa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_Avrupa.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanalavrupa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal V" tvg-logo="",Kanal V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kanal_V.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanalv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kıbrıs Genç Tv" tvg-logo="",Kıbrıs Genç Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kıbrıs_Genç_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kibrisgenctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kıbrıs Tv" tvg-logo="",Kıbrıs Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kıbrıs_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kibristv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Koza Tv" tvg-logo="",Koza Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Koza_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kozatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kudüs Tv" tvg-logo="",Kudüs Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Kudüs_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kudustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lalegül Tv" tvg-logo="",Lalegül Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Lalegül_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/lalegultv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mercan Tv" tvg-logo="",Mercan Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Mercan_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/mercantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vuslat Tv" tvg-logo="",Vuslat Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Vuslat_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/vuslattv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TvDen" tvg-logo="",TvDen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/TvDen.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tvden.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv5" tvg-logo="",Tv5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Tv5.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv 41" tvg-logo="",Tv 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Tv_41.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv41.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB Tv" tvg-logo="",ARB Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ARB_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/arbtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="",ARB 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ARB_24.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/arb24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="",Minika Go
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Minika_Go.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/minikago.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekol Tv" tvg-logo="",Ekol Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/Ekol_Tv.m3u8.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/ekoltv.m3u8
