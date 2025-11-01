@@ -128,6 +128,7 @@ if __name__ == "__main__":
                     # Use GitHub raw URL instead of direct stream URL
                     github_url = f"{BASE_URL}/tv-vin/{channel_path}.m3u8"
                     playlist_file.write(f"#EXTINF:-1 tvg-logo=\"{channel['channel_icon']}\",{channel['channel_name']}\n")
+                    playlist_file.write(f"#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\n")
                     playlist_file.write(f"{github_url}\n")
     
     playlist_file.close()
