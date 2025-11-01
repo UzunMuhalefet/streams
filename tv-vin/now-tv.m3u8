@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn501.freebroadcast.vip/foxtv720.m3u8?tkn=fADZa2hicyBYrV5w0v-pfg&tms=1762028893&hst=tv.vin&ip=4.227.135.150
+https://cdn506.freebroadcast.vip/foxtv720.m3u8?tkn=sqCYd78BqiLNekN5dK7Q-Q&tms=1762036399&hst=tv.vin&ip=172.182.193.102
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn501.freebroadcast.vip/foxtv.m3u8?tkn=fADZa2hicyBYrV5w0v-pfg&tms=1762028893&hst=tv.vin&ip=4.227.135.150
+https://cdn506.freebroadcast.vip/foxtv.m3u8?tkn=sqCYd78BqiLNekN5dK7Q-Q&tms=1762036399&hst=tv.vin&ip=172.182.193.102
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn501.freebroadcast.vip/foxtv360.m3u8?tkn=fADZa2hicyBYrV5w0v-pfg&tms=1762028893&hst=tv.vin&ip=4.227.135.150
+https://cdn506.freebroadcast.vip/foxtv360.m3u8?tkn=sqCYd78BqiLNekN5dK7Q-Q&tms=1762036399&hst=tv.vin&ip=172.182.193.102
