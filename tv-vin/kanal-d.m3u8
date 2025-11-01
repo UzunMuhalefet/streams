@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn502.freebroadcast.vip/kanald720.m3u8?tkn=BMH9tka4Z4h3cVoPmM0_LQ&tms=1762015768&hst=tv.vin&ip=172.208.23.65
+https://cdn501.freebroadcast.vip/kanald720.m3u8?tkn=ygpaUtsYdqnoZlq1I1TPRA&tms=1762019093&hst=tv.vin&ip=13.83.161.82
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn502.freebroadcast.vip/kanald.m3u8?tkn=BMH9tka4Z4h3cVoPmM0_LQ&tms=1762015768&hst=tv.vin&ip=172.208.23.65
+https://cdn501.freebroadcast.vip/kanald.m3u8?tkn=ygpaUtsYdqnoZlq1I1TPRA&tms=1762019093&hst=tv.vin&ip=13.83.161.82
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn502.freebroadcast.vip/kanald360.m3u8?tkn=BMH9tka4Z4h3cVoPmM0_LQ&tms=1762015768&hst=tv.vin&ip=172.208.23.65
+https://cdn501.freebroadcast.vip/kanald360.m3u8?tkn=ygpaUtsYdqnoZlq1I1TPRA&tms=1762019093&hst=tv.vin&ip=13.83.161.82
