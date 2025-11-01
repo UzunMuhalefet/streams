@@ -73,6 +73,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/a
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/ulke-tv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ictimai-tv-1759186146.png",İctimai Tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/ictimai-tv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ht-spor-1759224565.png",HT Spor
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/ht-spor.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-32.png",Kanal 32
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/kanal-32.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ekol-sports.png",Ekol Sports
