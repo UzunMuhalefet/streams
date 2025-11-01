@@ -89,6 +89,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-
 #EXTINF:-1 tvg-id="" tvg-name="TRT Spor Yıldız" tvg-logo="",TRT Spor Yıldız
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/trtspor2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Fırat" tvg-logo="",Kanal Fırat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanalfirat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Show Türk" tvg-logo="",Show Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/showturk.m3u8
@@ -320,6 +323,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-
 #EXTINF:-1 tvg-id="" tvg-name="Tv5" tvg-logo="",Tv5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv 41" tvg-logo="",Tv 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv41.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB Tv" tvg-logo="",ARB Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/arbtv.m3u8
