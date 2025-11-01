@@ -5,6 +5,7 @@ import os
 import shutil
 from html import unescape
 from typing import Optional, Dict, List
+from urllib.parse import urlparse
 
 headers = {
     "Referer": "https://tr.mobiltv.net/"
@@ -322,7 +323,8 @@ if __name__ == "__main__":
         print(f"Channel: {kanal['name']}")
         stream_urls = get_stream_urls(kanal['param'])
         if stream_urls:
-            file_name = f"{kanal['name'].replace(' ', '_').replace('/', '_')}.m3u8"
+            channel_slug = urlparse(stream_urls[0]).path.split('/')[-1].split('.')[0]
+            file_name = f"{channel_slug}.m3u8"
             file_path = os.path.join("mobiltv-net", file_name)
             result = save_file(file_path, stream_urls)
             if result == "success":
