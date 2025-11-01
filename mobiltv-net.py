@@ -323,7 +323,7 @@ if __name__ == "__main__":
         print(f"Channel: {kanal['name']}")
         stream_urls = get_stream_urls(kanal['param'])
         if stream_urls:
-            channel_slug = urlparse(stream_urls[0]).path.split('/')[-1].split('.')[0]
+            channel_slug = urlparse(stream_urls[0]).path.split('/')[-1].split('.')[0].replace("-master", "")
             file_name = f"{channel_slug}.m3u8"
             file_path = os.path.join("mobiltv-net", file_name)
             result = save_file(file_path, stream_urls)
