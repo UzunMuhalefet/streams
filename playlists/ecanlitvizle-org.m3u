@@ -50,9 +50,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-logo="https://tv.ecanlitvizle.org/logo/tele-1-izle.png",TELE1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tele1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="https://tv.ecanlitvizle.org/logo/krt-tv-canli.png",KRT TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/krttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="https://tv.ecanlitvizle.org/logo/a-para.png",A PARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/apara.m3u8
