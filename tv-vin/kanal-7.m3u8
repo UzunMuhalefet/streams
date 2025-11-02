@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn502.freebroadcast.vip/kanal7720.m3u8?tkn=_u3hduBwKa2tEcrMT2jXVA&tms=1762107721&hst=tv.vin&ip=52.173.162.33
+https://cdn501.freebroadcast.vip/kanal7720.m3u8?tkn=zo5WuyTHBQYWPHlQ_xHC9g&tms=1762122763&hst=tv.vin&ip=20.109.87.114
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn502.freebroadcast.vip/kanal7.m3u8?tkn=_u3hduBwKa2tEcrMT2jXVA&tms=1762107721&hst=tv.vin&ip=52.173.162.33
+https://cdn501.freebroadcast.vip/kanal7.m3u8?tkn=zo5WuyTHBQYWPHlQ_xHC9g&tms=1762122763&hst=tv.vin&ip=20.109.87.114
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn502.freebroadcast.vip/kanal7360.m3u8?tkn=_u3hduBwKa2tEcrMT2jXVA&tms=1762107721&hst=tv.vin&ip=52.173.162.33
+https://cdn501.freebroadcast.vip/kanal7360.m3u8?tkn=zo5WuyTHBQYWPHlQ_xHC9g&tms=1762122763&hst=tv.vin&ip=20.109.87.114
