@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn506.freebroadcast.vip/trtspor720.m3u8?tkn=LKc55Z119nhiIcP2usXkmA&tms=1762063821&hst=tv.vin&ip=172.182.202.195
+https://cdn504.freebroadcast.vip/trtspor720.m3u8?tkn=FAukERzUFn4MTau1X0R3XQ&tms=1762079841&hst=tv.vin&ip=40.76.191.133
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn506.freebroadcast.vip/trtspor.m3u8?tkn=LKc55Z119nhiIcP2usXkmA&tms=1762063821&hst=tv.vin&ip=172.182.202.195
+https://cdn504.freebroadcast.vip/trtspor.m3u8?tkn=FAukERzUFn4MTau1X0R3XQ&tms=1762079841&hst=tv.vin&ip=40.76.191.133
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn506.freebroadcast.vip/trtspor360.m3u8?tkn=LKc55Z119nhiIcP2usXkmA&tms=1762063821&hst=tv.vin&ip=172.182.202.195
+https://cdn504.freebroadcast.vip/trtspor360.m3u8?tkn=FAukERzUFn4MTau1X0R3XQ&tms=1762079841&hst=tv.vin&ip=40.76.191.133
