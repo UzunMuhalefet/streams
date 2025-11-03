@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn503.freebroadcast.vip/aspor720.m3u8?tkn=m0IT-UlDuuARDRKm49l4zg&tms=1762216011&hst=tr.mobiltv.net&ip=74.249.79.54&source=aspor-master
+https://cdn504.freebroadcast.vip/aspor720.m3u8?tkn=gCW3szO_Udpkq0P1M1b2kg&tms=1762222976&hst=tr.mobiltv.net&ip=172.208.153.9&source=aspor-master
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn503.freebroadcast.vip/aspor.m3u8?tkn=m0IT-UlDuuARDRKm49l4zg&tms=1762216011&hst=tr.mobiltv.net&ip=74.249.79.54&source=aspor-master
+https://cdn504.freebroadcast.vip/aspor.m3u8?tkn=gCW3szO_Udpkq0P1M1b2kg&tms=1762222976&hst=tr.mobiltv.net&ip=172.208.153.9&source=aspor-master
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn503.freebroadcast.vip/aspor360.m3u8?tkn=m0IT-UlDuuARDRKm49l4zg&tms=1762216011&hst=tr.mobiltv.net&ip=74.249.79.54&source=aspor-master
+https://cdn504.freebroadcast.vip/aspor360.m3u8?tkn=gCW3szO_Udpkq0P1M1b2kg&tms=1762222976&hst=tr.mobiltv.net&ip=172.208.153.9&source=aspor-master
