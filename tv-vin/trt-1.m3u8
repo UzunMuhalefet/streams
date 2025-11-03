@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn503.freebroadcast.vip/trt1720.m3u8?tkn=CCGdNX_I71mvsXeoSMr1Eg&tms=1762194460&hst=tv.vin&ip=13.83.160.131
+https://cdn502.freebroadcast.vip/trt1720.m3u8?tkn=QTvpA25-xFuFbS9k3tTRVA&tms=1762209329&hst=tv.vin&ip=172.182.195.228
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn503.freebroadcast.vip/trt1.m3u8?tkn=CCGdNX_I71mvsXeoSMr1Eg&tms=1762194460&hst=tv.vin&ip=13.83.160.131
+https://cdn502.freebroadcast.vip/trt1.m3u8?tkn=QTvpA25-xFuFbS9k3tTRVA&tms=1762209329&hst=tv.vin&ip=172.182.195.228
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn503.freebroadcast.vip/trt1360.m3u8?tkn=CCGdNX_I71mvsXeoSMr1Eg&tms=1762194460&hst=tv.vin&ip=13.83.160.131
+https://cdn502.freebroadcast.vip/trt1360.m3u8?tkn=QTvpA25-xFuFbS9k3tTRVA&tms=1762209329&hst=tv.vin&ip=172.182.195.228
