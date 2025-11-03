@@ -164,6 +164,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="KANAL URFA" tvg-logo="https://tv.ecanlitvizle.org/logo/kanal-urfa-tv-izle.png",KANAL URFA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kanalurfa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FM TV" tvg-logo="https://tv.ecanlitvizle.org/logo/fm-tv-izle.png",FM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/fmtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIBRIS GENÇ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/kibris-genc-tv-canli-izle.png",KIBRIS GENÇ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kibrisgenctv.m3u8
