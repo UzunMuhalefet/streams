@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn502.freebroadcast.vip/ntv720.m3u8?tkn=a4FpMfLa7Kx8Js0YDz274g&tms=1762236271&hst=tv.vin&ip=52.173.181.18
+https://cdn503.freebroadcast.vip/ntv720.m3u8?tkn=j5fwY4bxF772NSpARgeMoA&tms=1762252822&hst=tv.vin&ip=74.249.79.53
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn502.freebroadcast.vip/ntv.m3u8?tkn=a4FpMfLa7Kx8Js0YDz274g&tms=1762236271&hst=tv.vin&ip=52.173.181.18
+https://cdn503.freebroadcast.vip/ntv.m3u8?tkn=j5fwY4bxF772NSpARgeMoA&tms=1762252822&hst=tv.vin&ip=74.249.79.53
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn502.freebroadcast.vip/ntv360.m3u8?tkn=a4FpMfLa7Kx8Js0YDz274g&tms=1762236271&hst=tv.vin&ip=52.173.181.18
+https://cdn503.freebroadcast.vip/ntv360.m3u8?tkn=j5fwY4bxF772NSpARgeMoA&tms=1762252822&hst=tv.vin&ip=74.249.79.53
