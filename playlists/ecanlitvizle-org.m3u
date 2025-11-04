@@ -98,9 +98,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="SPACE TV AZ" tvg-logo="https://tv.ecanlitvizle.org/logo/space-tv-az-izle.png",SPACE TV AZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/spacetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDENİYET AZ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/medeniyet-az-tv.png",MEDENİYET AZ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/medeniyettv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REAL AZ" tvg-logo="https://tv.ecanlitvizle.org/logo/real-tv-az.png",REAL AZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/realtv.m3u8
