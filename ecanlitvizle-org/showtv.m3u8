@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn501.freebroadcast.vip/showtv720.m3u8?tkn=cczBLnBAqPD-QZDfbJXp9w&tms=1762244933&hst=tv.ecanlitvizle.org&ip=20.98.18.69
+https://cdn502.freebroadcast.vip/showtv720.m3u8?tkn=kqjOBbwf96aBhQk3fN9PLQ&tms=1762266551&hst=tv.ecanlitvizle.org&ip=135.232.200.0
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn501.freebroadcast.vip/showtv.m3u8?tkn=cczBLnBAqPD-QZDfbJXp9w&tms=1762244933&hst=tv.ecanlitvizle.org&ip=20.98.18.69
+https://cdn502.freebroadcast.vip/showtv.m3u8?tkn=kqjOBbwf96aBhQk3fN9PLQ&tms=1762266551&hst=tv.ecanlitvizle.org&ip=135.232.200.0
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn501.freebroadcast.vip/showtv360.m3u8?tkn=cczBLnBAqPD-QZDfbJXp9w&tms=1762244933&hst=tv.ecanlitvizle.org&ip=20.98.18.69
+https://cdn502.freebroadcast.vip/showtv360.m3u8?tkn=kqjOBbwf96aBhQk3fN9PLQ&tms=1762266551&hst=tv.ecanlitvizle.org&ip=135.232.200.0
