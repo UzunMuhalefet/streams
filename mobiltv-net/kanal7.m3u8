@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn503.freebroadcast.vip/kanal7720.m3u8?tkn=DIl9QvXGLfYqUeWujCpLPw&tms=1762259545&hst=tr.mobiltv.net&ip=172.184.209.161&source=kanal7-master
+https://cdn506.freebroadcast.vip/kanal7720.m3u8?tkn=FbwXkyAP_IPv7THRCnQ1EQ&tms=1762266478&hst=tr.mobiltv.net&ip=48.214.53.180&source=kanal7-master
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn503.freebroadcast.vip/kanal7.m3u8?tkn=DIl9QvXGLfYqUeWujCpLPw&tms=1762259545&hst=tr.mobiltv.net&ip=172.184.209.161&source=kanal7-master
+https://cdn506.freebroadcast.vip/kanal7.m3u8?tkn=FbwXkyAP_IPv7THRCnQ1EQ&tms=1762266478&hst=tr.mobiltv.net&ip=48.214.53.180&source=kanal7-master
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn503.freebroadcast.vip/kanal7360.m3u8?tkn=DIl9QvXGLfYqUeWujCpLPw&tms=1762259545&hst=tr.mobiltv.net&ip=172.184.209.161&source=kanal7-master
+https://cdn506.freebroadcast.vip/kanal7360.m3u8?tkn=FbwXkyAP_IPv7THRCnQ1EQ&tms=1762266478&hst=tr.mobiltv.net&ip=48.214.53.180&source=kanal7-master
