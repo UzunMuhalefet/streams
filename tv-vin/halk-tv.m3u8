@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn502.freebroadcast.vip/halktv720.m3u8?tkn=U7I_tnRH8Jd3tw7Gi8F-0g&tms=1762216218&hst=tv.vin&ip=20.161.78.67
+https://cdn506.freebroadcast.vip/halktv720.m3u8?tkn=8UL_ZoILgjNJ-gph8XdW2A&tms=1762236272&hst=tv.vin&ip=52.173.181.18
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn502.freebroadcast.vip/halktv.m3u8?tkn=U7I_tnRH8Jd3tw7Gi8F-0g&tms=1762216218&hst=tv.vin&ip=20.161.78.67
+https://cdn506.freebroadcast.vip/halktv.m3u8?tkn=8UL_ZoILgjNJ-gph8XdW2A&tms=1762236272&hst=tv.vin&ip=52.173.181.18
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn502.freebroadcast.vip/halktv360.m3u8?tkn=U7I_tnRH8Jd3tw7Gi8F-0g&tms=1762216218&hst=tv.vin&ip=20.161.78.67
+https://cdn506.freebroadcast.vip/halktv360.m3u8?tkn=8UL_ZoILgjNJ-gph8XdW2A&tms=1762236272&hst=tv.vin&ip=52.173.181.18
