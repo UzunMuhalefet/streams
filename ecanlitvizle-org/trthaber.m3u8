@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn501.freebroadcast.vip/trthaber720.m3u8?tkn=8o89sM0py8LmFDyJe9lQuA&tms=1762223088&hst=tv.ecanlitvizle.org&ip=172.183.135.146
+https://cdn505.freebroadcast.vip/trthaber720.m3u8?tkn=d6IeOU9QZMaDEkb6hKeW-A&tms=1762235749&hst=tv.ecanlitvizle.org&ip=135.119.239.131
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn501.freebroadcast.vip/trthaber.m3u8?tkn=8o89sM0py8LmFDyJe9lQuA&tms=1762223088&hst=tv.ecanlitvizle.org&ip=172.183.135.146
+https://cdn505.freebroadcast.vip/trthaber.m3u8?tkn=d6IeOU9QZMaDEkb6hKeW-A&tms=1762235749&hst=tv.ecanlitvizle.org&ip=135.119.239.131
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn501.freebroadcast.vip/trthaber360.m3u8?tkn=8o89sM0py8LmFDyJe9lQuA&tms=1762223088&hst=tv.ecanlitvizle.org&ip=172.183.135.146
+https://cdn505.freebroadcast.vip/trthaber360.m3u8?tkn=d6IeOU9QZMaDEkb6hKeW-A&tms=1762235749&hst=tv.ecanlitvizle.org&ip=135.119.239.131
