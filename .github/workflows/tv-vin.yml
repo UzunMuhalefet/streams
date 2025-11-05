@@ -2,7 +2,7 @@ name: Update tv-vin
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Run every 6 hours
+    - cron: '20 */2 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
@@ -36,4 +36,8 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add tv-vin/ playlists/
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update streams" && git push)
+        git diff --quiet && git diff --staged --quiet || {
+          git commit -m "Update streams"
+          git pull --rebase origin main
+          git push
+        }
