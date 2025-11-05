@@ -182,6 +182,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/t
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ekin-tv.png",Ekin Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/ekin-tv.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-meltem-tv.png",Meltem Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/meltem-tv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-rehber-tv.png",Rehber Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/rehber-tv.m3u8
