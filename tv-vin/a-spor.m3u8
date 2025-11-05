@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn505.freebroadcast.vip/aspor720.m3u8?tkn=HiFepwI6-oAF4Q0g_wiSsA&tms=1762339186&hst=tv.vin&ip=172.208.127.33
+https://cdn305.freebroadcast.vip/aspor720.m3u8?tkn=hojwKstc-obgg0yeUX_Z4Q&tms=1762361825&hst=tv.vin&ip=172.178.118.81&utkn=d77c754a0527c7a4e3b5fcd7fe443619
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn505.freebroadcast.vip/aspor.m3u8?tkn=HiFepwI6-oAF4Q0g_wiSsA&tms=1762339186&hst=tv.vin&ip=172.208.127.33
+https://cdn305.freebroadcast.vip/aspor.m3u8?tkn=hojwKstc-obgg0yeUX_Z4Q&tms=1762361825&hst=tv.vin&ip=172.178.118.81&utkn=d77c754a0527c7a4e3b5fcd7fe443619
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn505.freebroadcast.vip/aspor360.m3u8?tkn=HiFepwI6-oAF4Q0g_wiSsA&tms=1762339186&hst=tv.vin&ip=172.208.127.33
+https://cdn305.freebroadcast.vip/aspor360.m3u8?tkn=hojwKstc-obgg0yeUX_Z4Q&tms=1762361825&hst=tv.vin&ip=172.178.118.81&utkn=d77c754a0527c7a4e3b5fcd7fe443619
