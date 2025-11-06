@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="",Kanal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal7.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal7720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Show Tv" tvg-logo="",Show Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/showtv.m3u8
@@ -215,6 +215,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-
 #EXTINF:-1 tvg-id="" tvg-name="Sunnah Tv" tvg-logo="",Sunnah Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/sunnahtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV100" tvg-logo="",TV100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tv100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teve2" tvg-logo="",Teve2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/teve2.m3u8
