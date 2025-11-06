@@ -107,6 +107,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="",Euro D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/eurod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xezer Tv" tvg-logo="",Xezer Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/xezertv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space Tv" tvg-logo="",Space Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/spacetv.m3u8
