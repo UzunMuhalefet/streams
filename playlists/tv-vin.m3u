@@ -20,9 +20,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/t
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.png",Now Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/now-tv.m3u8
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-7.png",Kanal 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/kanal-7.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-beyaz-tv.png",Beyaz Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/beyaz-tv.m3u8
@@ -92,6 +89,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/t
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-a-haber.png",A Haber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/a-haber.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv100.png",tv100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-24-tv.png",24 Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/kanal-24.m3u8
