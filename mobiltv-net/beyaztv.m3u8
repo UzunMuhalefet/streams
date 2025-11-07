@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn503.freebroadcast.vip/beyaztv720.m3u8?tkn=qiValeRNSgjSZ0tDA1xSwA&tms=1762539775&hst=tr.mobiltv.net&ip=48.214.55.68&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=beyaztv-master
+https://cdn501.freebroadcast.vip/beyaztv720.m3u8?tkn=TsDtCvNzh0zce4r7j7AqJA&tms=1762547208&hst=tr.mobiltv.net&ip=52.165.251.242&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=beyaztv-master
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn503.freebroadcast.vip/beyaztv.m3u8?tkn=qiValeRNSgjSZ0tDA1xSwA&tms=1762539775&hst=tr.mobiltv.net&ip=48.214.55.68&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=beyaztv-master
+https://cdn501.freebroadcast.vip/beyaztv.m3u8?tkn=TsDtCvNzh0zce4r7j7AqJA&tms=1762547208&hst=tr.mobiltv.net&ip=52.165.251.242&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=beyaztv-master
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn503.freebroadcast.vip/beyaztv360.m3u8?tkn=qiValeRNSgjSZ0tDA1xSwA&tms=1762539775&hst=tr.mobiltv.net&ip=48.214.55.68&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=beyaztv-master
+https://cdn501.freebroadcast.vip/beyaztv360.m3u8?tkn=TsDtCvNzh0zce4r7j7AqJA&tms=1762547208&hst=tr.mobiltv.net&ip=52.165.251.242&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=beyaztv-master
