@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn504.freebroadcast.vip/ntv720.m3u8?tkn=iVh8p2nha5U4jdKKtxViJA&tms=1762494687&hst=tr.mobiltv.net&ip=172.184.220.208&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=ntv-master
+https://cdn502.freebroadcast.vip/ntv720.m3u8?tkn=W7uyx5zwQ9oSzEWNsLLQLA&tms=1762499643&hst=tr.mobiltv.net&ip=172.183.91.53&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=ntv-master
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn504.freebroadcast.vip/ntv.m3u8?tkn=iVh8p2nha5U4jdKKtxViJA&tms=1762494687&hst=tr.mobiltv.net&ip=172.184.220.208&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=ntv-master
+https://cdn502.freebroadcast.vip/ntv.m3u8?tkn=W7uyx5zwQ9oSzEWNsLLQLA&tms=1762499643&hst=tr.mobiltv.net&ip=172.183.91.53&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=ntv-master
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn504.freebroadcast.vip/ntv360.m3u8?tkn=iVh8p2nha5U4jdKKtxViJA&tms=1762494687&hst=tr.mobiltv.net&ip=172.184.220.208&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=ntv-master
+https://cdn502.freebroadcast.vip/ntv360.m3u8?tkn=W7uyx5zwQ9oSzEWNsLLQLA&tms=1762499643&hst=tr.mobiltv.net&ip=172.183.91.53&utkn=d77c754a0527c7a4e3b5fcd7fe443619&source=ntv-master
