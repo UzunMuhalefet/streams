@@ -152,9 +152,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="LİNE TV" tvg-logo="https://tv.ecanlitvizle.org/logo/bursa-line-tv-izle.png",LİNE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/linetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 41" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-41-izle.png",TV 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv41.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 52" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-52-izle.png",TV 52
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv52.m3u8
