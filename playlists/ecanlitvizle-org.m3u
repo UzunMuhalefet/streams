@@ -50,6 +50,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="TELE1" tvg-logo="https://tv.ecanlitvizle.org/logo/tele-1-izle.png",TELE1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tele1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="https://tv.ecanlitvizle.org/logo/krt-tv-canli.png",KRT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/krttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="https://tv.ecanlitvizle.org/logo/a-para.png",A PARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/apara.m3u8
@@ -155,6 +158,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="TV 52" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-52-izle.png",TV 52
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEMPO TV" tvg-logo="https://tv.ecanlitvizle.org/logo/tempo-tv-izle.png",TEMPO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tempotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL URFA" tvg-logo="https://tv.ecanlitvizle.org/logo/kanal-urfa-tv-izle.png",KANAL URFA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kanalurfa.m3u8
@@ -185,9 +191,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="THTÜRK HABER" tvg-logo="https://tv.ecanlitvizle.org/logo/turk-haber-tv-canli.jpg",THTÜRK HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/thturkhaber.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRTV" tvg-logo="https://tv.ecanlitvizle.org/logo/brtv-canli.png",BRTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/brtvkarabuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PARS TV" tvg-logo="https://tv.ecanlitvizle.org/logo/pars-tv.png",PARS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/parstv.m3u8
