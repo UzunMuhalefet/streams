@@ -290,9 +290,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 33" tvg-logo="",Kanal 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanal33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal Avrupa" tvg-logo="",Kanal Avrupa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanalavrupa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal V" tvg-logo="",Kanal V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/kanalv.m3u8
@@ -314,9 +311,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-
 #EXTINF:-1 tvg-id="" tvg-name="Mercan Tv" tvg-logo="",Mercan Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/mercantv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vuslat Tv" tvg-logo="",Vuslat Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/vuslattv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TvDen" tvg-logo="",TvDen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/tvden.m3u8
