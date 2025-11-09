@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn501.freebroadcast.vip/beyaztv720.m3u8?tkn=iM_jUUf9s0SsS7IQn4mUOg&tms=1762655517&hst=tv.vin&ip=51.8.152.226&utkn=d77c754a0527c7a4e3b5fcd7fe443619
+https://cdn505.freebroadcast.vip/beyaztv720.m3u8?tkn=tmbjTLR_hioJV0rIIgVrtA&tms=1762669178&hst=tv.vin&ip=20.169.75.33&utkn=d77c754a0527c7a4e3b5fcd7fe443619
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn501.freebroadcast.vip/beyaztv.m3u8?tkn=iM_jUUf9s0SsS7IQn4mUOg&tms=1762655517&hst=tv.vin&ip=51.8.152.226&utkn=d77c754a0527c7a4e3b5fcd7fe443619
+https://cdn505.freebroadcast.vip/beyaztv.m3u8?tkn=tmbjTLR_hioJV0rIIgVrtA&tms=1762669178&hst=tv.vin&ip=20.169.75.33&utkn=d77c754a0527c7a4e3b5fcd7fe443619
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn501.freebroadcast.vip/beyaztv360.m3u8?tkn=iM_jUUf9s0SsS7IQn4mUOg&tms=1762655517&hst=tv.vin&ip=51.8.152.226&utkn=d77c754a0527c7a4e3b5fcd7fe443619
+https://cdn505.freebroadcast.vip/beyaztv360.m3u8?tkn=tmbjTLR_hioJV0rIIgVrtA&tms=1762669178&hst=tv.vin&ip=20.169.75.33&utkn=d77c754a0527c7a4e3b5fcd7fe443619
