@@ -95,9 +95,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="AZ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/az-tv-izle-azerbaycan-tv-izle.png",AZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/aztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="https://tv.ecanlitvizle.org/logo/arb-24-az.png",ARB 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/arb24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPACE TV AZ" tvg-logo="https://tv.ecanlitvizle.org/logo/space-tv-az-izle.png",SPACE TV AZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/spacetv.m3u8
@@ -110,42 +107,15 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitv
 #EXTINF:-1 tvg-id="" tvg-name="CBC AZ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/cbc-az-tv-cenub-tv.png",CBC AZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/cbcaztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARB GÜNƏŞ" tvg-logo="https://tv.ecanlitvizle.org/logo/arb-gunes.png",ARB GÜNƏŞ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/arbgunes.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REHBER TV" tvg-logo="https://tv.ecanlitvizle.org/logo/rehber-tv.png",REHBER TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/rehbertv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DOST TV" tvg-logo="https://tv.ecanlitvizle.org/logo/dost-tv-izle.png",DOST TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/dosttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT TÜRK" tvg-logo="https://tv.ecanlitvizle.org/logo/trt-turk-izle.png",TRT TÜRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/trtturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV" tvg-logo="https://tv.ecanlitvizle.org/logo/ekoturk-tv-canli.png",EKOTÜRK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/ekoturktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GÜNAZ TV" tvg-logo="https://tv.ecanlitvizle.org/logo/gunaz-tv-az.png",GÜNAZ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/gunaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV5" tvg-logo="https://tv.ecanlitvizle.org/logo/tv-5-izle.png",TV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/tv5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LALEGÜL TV" tvg-logo="https://tv.ecanlitvizle.org/logo/lalegul-tv-canli-izle.png",LALEGÜL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/lalegultv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSTAR" tvg-logo="https://tv.ecanlitvizle.org/logo/star-tv-avrupa-eurostar-izle.png",EUROSTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/eurostar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 4K" tvg-logo="https://tv.ecanlitvizle.org/logo/trt-4k-izle.png",TRT 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/trthaber.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NUMBER 1 TV TÜRK" tvg-logo="https://tv.ecanlitvizle.org/logo/number-1-one-tv-cani-izle.png",NUMBER 1 TV TÜRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/nr1turktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VUSLAT TV" tvg-logo="https://tv.ecanlitvizle.org/logo/vuslat-tv-izle.png",VUSLAT TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/vuslattv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 33" tvg-logo="https://tv.ecanlitvizle.org/logo/kanal-33.png",KANAL 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/kanal33.m3u8
