@@ -188,9 +188,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/m
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-rehber-tv.png",Rehber Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/rehber-tv.m3u8
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kudus-tv.png",Kudüs Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/kudus-tv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-dost-tv-1761387928.png",Dost Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/dost-tv.m3u8
