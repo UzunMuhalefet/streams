@@ -2,7 +2,7 @@ name: Update Catcast Streams
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
+    - cron: '0 */2 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
         pip install requests
     
     - name: Run update script
-      run: python catcast-update.py
+      run: python catcast.py
     
     - name: Commit and push changes
       run: |
