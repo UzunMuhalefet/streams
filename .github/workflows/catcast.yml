@@ -2,8 +2,12 @@ name: Update Catcast Streams
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Run every 6 hours
+    - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual trigger
+
+concurrency:
+  group: catcast-update
+  cancel-in-progress: false  # Wait for previous run to complete
 
 jobs:
   update-streams:
@@ -31,5 +35,5 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add catcast/
-        git add -u catcast/  # This stages deletions
+        git add -u catcast/
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update Catcast streams [$(date +'%Y-%m-%d %H:%M:%S')]" && git push)
