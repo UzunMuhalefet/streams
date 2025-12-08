@@ -13,7 +13,7 @@ def get_current_program(channel_id):
     url = f"https://api.catcast.tv/api/channels/{channel_id}/getcurrentprogram"
     
     try:
-        response = requests.post(url, timeout=30)
+        response = requests.post(url, timeout=60)
         response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
